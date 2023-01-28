@@ -1,7 +1,7 @@
 // Leetcode - Zigzag Conversion
 // Nguyen Anh Duc, 28/01/2023
 // Time complexity: O(n)
-// Space: O(1)
+// Space: O(n)
 // Runtime: 7 ms (Beats 92,37%)
 // Memory 8.2 MB (Beats 82,53%)
 
